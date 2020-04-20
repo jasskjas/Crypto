@@ -1,5 +1,5 @@
 #Python2
-#CadenaMartinezFernando
+#CadenaMartinezFernando(esta madre es lo unico que cambie jeje kjas)
 #ESCOM IPN
 
 from Crypto.Util.number import *
